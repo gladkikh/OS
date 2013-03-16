@@ -1,4 +1,0 @@
-OS
-==
-
-Simple OS
